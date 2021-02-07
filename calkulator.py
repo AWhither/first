@@ -20,3 +20,5 @@ elif w == "-":
 
 else:
     print("comand not found")
+
+#The end
